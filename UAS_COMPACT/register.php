@@ -43,7 +43,6 @@ $conn->close();
 <head>
     <title>Registration</title>
     <style>
-        <style>
         body {
             font-family: Arial, sans-serif;
             background-color: #f5f5f5;
